@@ -5,14 +5,14 @@ baseurl: "http://GreatTed.github.io" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: 프로그래밍이 즐거운 유쾌한 개발자 Ted의 블로그
 
 # Social icons
-facebook: username
-linkedin: greatted
-github: username
-deviantart: username
-codepen: username
+facebook: GreatTed
+linkedin: GreatTed
+github: TedHong
+#deviantart: username
+#codepen: username
 
 footer: © Taken theme
 
